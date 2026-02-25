@@ -3,6 +3,10 @@ body {
 	background-image: url(../img/pexels-pixabay-235985.jpg);
 }
 h1 {
-	font-size: 150 px;
+	font-size: 20em;
 	color: hotpink;
+}
+p {
+	font-size: 15em;
+	color: #ffc482;
 }
