@@ -1,6 +1,9 @@
 /* styles.css */
 body {
 	background-image: url(../img/pexels-pixabay-235985.jpg);
+	background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
 }
 h1 {
 	font-size: 20em;
